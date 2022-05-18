@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+}
+
+header {
+  background-color: #d2e8f8;
+  padding: 32px;
+}
+
+header a {
+  text-decoration: none;
+  color: black;
+  border: solid 1px black;
+  display: flex;
+  justify-content: space-around;
+}
+
+.introduction {
+  background-color: #d2e8f8;
+  margin: 32px;
+  padding: 32px;
+  border-radius: 15px;
+}
+
+.retailers {
+  background-color: #d2e8f8;
+  margin: 32px;
+  padding: 32px;
+  border-radius: 15px;
+}
+
+.product-presentation {
+  background-color: #d2e8f8;
+  margin: 32px;
+  padding: 32px;
+  border-radius: 15px;
+}
+
+.fleche {
+  max-width: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.moving-text {
+  background-color: #d2e8f8;
+}
+
+footer {
+  background-color: #d2e8f8;
+}
